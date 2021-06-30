@@ -1,0 +1,8 @@
+{%- if page.content -%}
+      {%- assign contents = page.content | strip_html | split: " " -%}
+      {%- assign count = 0 -%}
+      {%- for _content in contents -%}
+            {%- assign count = count | plus: _content.size -%}
+      {%- endfor -%}
+      本文总字数：{{ count }}
+{%- endif -%}
