@@ -2,7 +2,7 @@
 layout: post
 title:  "东极岛上的邂逅"
 date:   2021-07-18 12:00:00 +0800
-categories: 游记
+categories: 旅游
 post: 
 ---
 
