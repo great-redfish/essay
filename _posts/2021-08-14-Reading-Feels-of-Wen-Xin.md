@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "文心读后感"
+title:  "《文心》读后感"
 date:   2021-08-14 12:00:00 +0800
 categories: 读后感
 post: 
